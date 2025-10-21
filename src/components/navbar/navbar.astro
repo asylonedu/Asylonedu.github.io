@@ -1,0 +1,96 @@
+---
+import { Menu, X } from "@lucide/astro";
+import { BASE_PATH } from "@/utils/constants";
+
+const menuitems = [
+  { title: "About", path: `${BASE_PATH}/about` },
+  { title: "Blog", path: `${BASE_PATH}/blog` },
+];
+---
+<header class="sticky top-0 z-50 border-b border-border/60 bg-white/95">
+  <div class="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
+    <a
+      href={BASE_PATH}
+      class="flex items-center gap-3 text-left transition hover:opacity-90"
+    >
+      <img
+        src={`${BASE_PATH}/Asylon.png`}
+        alt="Asylon"
+        class="h-20 w-auto rounded-xl"
+      />
+      <div class="leading-tight">
+      </div>
+    </a>
+
+    <!-- Desktop Menu -->
+    <nav class="hidden items-center gap-8 text-sm font-medium text-muted-foreground md:flex">
+      {menuitems.map((item) => (
+        <a href={item.path} class="transition hover:text-primary">
+          {item.title}
+        </a>
+      ))}
+    </nav>
+
+    <!-- Desktop CTA -->
+    <div class="hidden md:flex">
+      <a
+        href={`${BASE_PATH}/newsletter`}
+        class="inline-flex items-center gap-2 rounded-full border border-border px-4 py-2 text-sm font-semibold text-foreground transition hover:border-primary hover:text-primary"
+      >
+        Join the community
+      </a>
+    </div>
+
+    <!-- Mobile Menu Toggle -->
+    <button
+      id="menu-toggle"
+      class="inline-flex items-center justify-center rounded-full border border-border/80 p-3 text-foreground transition hover:border-primary hover:text-primary md:hidden"
+      aria-label="Toggle navigation"
+    >
+      <Menu class="h-5 w-5" />
+    </button>
+  </div>
+
+  <!-- Mobile Menu -->
+  <div
+    id="mobile-menu"
+    class="hidden border-b border-border/60 bg-white px-6 pb-6 pt-2 md:hidden"
+  >
+    <nav class="flex flex-col gap-4 text-sm font-semibold">
+      {menuitems.map((item) => (
+        <a
+          href={item.path}
+          class="rounded-lg bg-white/40 px-4 py-3 text-foreground shadow-sm ring-1 ring-border/50 transition hover:ring-primary/50"
+        >
+          {item.title}
+        </a>
+      ))}
+      <a
+        href={`${BASE_PATH}/newsletter`}
+        class="rounded-lg bg-gradient-to-r from-primary to-secondary px-4 py-3 text-center text-sm font-semibold text-primary-foreground shadow-brand"
+      >
+        Join the community
+      </a>
+    </nav>
+  </div>
+</header>
+
+<!-- Client-side script -->
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const toggleBtn = document.getElementById("menu-toggle");
+    const menu = document.getElementById("mobile-menu");
+    if (!toggleBtn || !menu) return;
+
+    const openIcon = `<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"/></svg>`;
+    const closeIcon = `<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>`;
+
+    let isOpen = false;
+
+    toggleBtn.addEventListener("click", () => {
+      isOpen = !isOpen;
+      menu.classList.toggle("hidden", !isOpen);
+      toggleBtn.innerHTML = isOpen ? closeIcon : openIcon;
+    });
+  });
+</script>

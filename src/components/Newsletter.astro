@@ -1,0 +1,79 @@
+<section
+  id="newsletter"
+  class="mt-16 scroll-mt-24 rounded-3xl border border-border/70 bg-white px-6 py-12 md:mt-24 md:px-12"
+>
+  <div class="flex flex-col gap-8 md:flex-row md:items-center md:justify-between">
+    <div class="max-w-xl space-y-4">
+      <p class="text-xs font-semibold uppercase tracking-[0.32em] text-primary">
+        Ritmo semanal
+      </p>
+      <h2 class="font-display text-3xl text-foreground md:text-4xl">
+        Inspiración y hábitos cada domingo
+      </h2>
+      <p class="text-sm text-muted-foreground">
+        Un correo breve con ideas tecnológicas para mejorar y aplicar durante la semana.
+      </p>
+    </div>
+
+    <!-- Newsletter form -->
+    <form
+      id="newsletter-form"
+      class="w-full max-w-md rounded-2xl border border-border/60 bg-muted/15 p-6"
+    >
+      <div class="space-y-4">
+        <label
+          for="email"
+          class="block text-xs font-semibold uppercase tracking-[0.26em] text-muted-foreground"
+        >
+          Correo electrónico
+        </label>
+        <div class="flex flex-col gap-3 md:flex-row md:items-center">
+          <input
+            id="email"
+            name="email"
+            type="email"
+            placeholder="tú@ejemplo.com"
+            class="h-12 flex-1 rounded-full border border-border/70 bg-white px-5 text-sm text-foreground outline-none transition focus:border-primary focus:ring-2 focus:ring-primary/40"
+            required
+          />
+          <button
+            type="submit"
+            id="submit-btn"
+            class="rounded-full px-6 py-3 text-sm font-semibold md:ml-2 border border-border bg-white hover:border-primary hover:text-primary transition"
+          >
+            Unirme ahora
+          </button>
+        </div>
+        <p class="text-xs text-muted-foreground">
+          Enviamos solo un correo por semana. Podés darte de baja cuando quieras.
+        </p>
+      </div>
+    </form>
+  </div>
+</section>
+
+<!-- ✅ This script will run only in the browser -->
+<script is:inline>
+  if (typeof window !== "undefined") {
+    window.addEventListener("DOMContentLoaded", () => {
+      const form = document.querySelector("#newsletter-form");
+      const emailInput = document.querySelector("#email");
+      const submitBtn = document.querySelector("#submit-btn");
+
+      if (!form || !emailInput || !submitBtn) return;
+
+      form.addEventListener("submit", (event) => {
+        event.preventDefault();
+
+        const email = emailInput.value.trim();
+        if (!email) return;
+
+        submitBtn.textContent = "¡Suscripto!";
+        submitBtn.disabled = true;
+        submitBtn.classList.add("opacity-60", "cursor-not-allowed");
+
+        emailInput.value = "";
+      });
+    });
+  }
+</script>

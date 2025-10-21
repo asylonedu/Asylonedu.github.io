@@ -1,0 +1,91 @@
+---
+const resourceLinks = [
+  { label: "Estándares editoriales", href: "#spotlight" },
+  { label: "Sustentabilidad", href: "#collections" },
+  { label: "Guías comunitarias", href: "#newsletter" },
+];
+
+const socialLinks = [
+  { label: "Instagram", href: "https://www.instagram.com/" },
+  { label: "YouTube", href: "https://www.youtube.com/" },
+  { label: "Threads", href: "https://www.threads.net/" },
+];
+
+const year = new Date().getFullYear();
+---
+
+<footer class="border-t border-border/60 bg-white py-12 dark:bg-background">
+  <div class="mx-auto max-w-6xl px-6">
+    <div class="flex gap-2 justify-between">
+      <!-- Brand Info -->
+      <div class="space-y-4">
+        <div class="flex items-center gap-3">
+          <span
+            class="grid h-10 w-10 place-items-center rounded-xl bg-primary text-sm font-semibold text-primary-foreground"
+          >
+          </span>
+          <div>
+            <p class="font-display text-lg font-semibold text-foreground">
+              Asylon
+            </p>
+            <p class="text-xs uppercase tracking-[0.3em] text-muted-foreground">
+              Tecnología & Bienestar
+            </p>
+          </div>
+        </div>
+        <p class="max-w-md text-sm text-muted-foreground">
+          Un espacio moderno para explorar hábitos, tecnología y bienestar con
+          propósito. Creado para quienes buscan equilibrio entre lo digital y lo
+          humano.
+        </p>
+      </div>
+
+      <!-- Explore Links -->
+      <div>
+        <p class="text-xs font-semibold uppercase tracking-[0.28em] text-muted-foreground">
+          Explorar
+        </p>
+        <ul class="mt-4 space-y-3 text-sm font-medium text-foreground/80">
+          {resourceLinks.map((link) => (
+            <li>
+              <a class="transition hover:text-primary" href={link.href}>
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Social Links -->
+      <div>
+        <p class="text-xs font-semibold uppercase tracking-[0.28em] text-muted-foreground">
+          Conectar
+        </p>
+        <ul class="mt-4 space-y-3 text-sm font-medium text-foreground/80">
+          {socialLinks.map((link) => (
+            <li>
+              <a
+                class="transition hover:text-primary"
+                href={link.href}
+                target="_blank"
+                rel="noreferrer"
+              >
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Bottom Footer -->
+    <div
+      class="mt-12 flex flex-col gap-4 border-t border-border/60 pt-6 text-sm text-muted-foreground md:flex-row md:items-center md:justify-between"
+    >
+      <p>© {year} Asylon. Diseñado con equilibrio y propósito.</p>
+      <p class="text-xs uppercase tracking-[0.26em]">
+        Inspiración semanal • Sin ruido en tu bandeja
+      </p>
+    </div>
+  </div>
+</footer>

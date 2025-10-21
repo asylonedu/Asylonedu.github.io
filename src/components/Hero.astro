@@ -1,0 +1,68 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { BASE_PATH } from "@/utils/constants";
+
+export interface Props {
+  featured: CollectionEntry<"blog">;
+}
+
+const { featured } = Astro.props;
+const { title, snippet, image, publishDate, author, category } = featured.data;
+---
+
+<section class="rounded-3xl border border-border/70 bg-white px-6 py-14 md:px-12 md:py-20">
+  <div class="grid gap-12 md:grid-cols-2 md:items-center">
+    <div class="space-y-6">
+      <!-- Category Tag -->
+      <span class="inline-flex w-fit items-center rounded-full bg-primary/10 px-4 py-1 text-[11px] font-semibold uppercase tracking-[0.24em] text-primary/80">
+        {category}
+      </span>
+
+      <!-- Title -->
+      <h1 class="max-w-xl font-display text-4xl leading-tight text-foreground md:text-[2.8rem]">
+        {title}
+      </h1>
+
+      <!-- Description / Snippet -->
+      <p class="max-w-xl text-base text-muted-foreground">
+        {snippet}
+      </p>
+
+      <!-- Actions -->
+      <div class="flex flex-wrap items-center gap-4">
+        <a
+          href={`${BASE_PATH}/blog/${featured.slug}`}
+          class="inline-flex items-center justify-center rounded-full bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground shadow-sm transition hover:opacity-90"
+        >
+          Leer artículo
+        </a>
+
+        <a
+          href={`${BASE_PATH}/blog`}
+          class="text-sm font-semibold text-muted-foreground underline-offset-4 transition hover:text-primary hover:underline"
+        >
+          Ver más artículos
+        </a>
+      </div>
+
+      <!-- Meta -->
+      <div class="flex flex-wrap items-center gap-4 text-xs uppercase tracking-[0.26em] text-muted-foreground">
+        <span>{new Date(publishDate).toLocaleDateString("es-ES", { dateStyle: "long" })}</span>
+        <span class="h-1 w-1 rounded-full bg-muted-foreground"></span>
+        <span>{author}</span>
+      </div>
+    </div>
+
+    <!-- Image -->
+    {image?.src && (
+      <figure class="overflow-hidden rounded-2xl border border-border/60">
+        <img
+          src={`${image.src}&sat=-10`}
+          alt={image.alt || title}
+          class="h-full w-full object-cover"
+          loading="lazy"
+        />
+      </figure>
+    )}
+  </div>
+</section>

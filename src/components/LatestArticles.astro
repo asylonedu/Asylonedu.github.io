@@ -1,0 +1,78 @@
+---
+import { BASE_PATH } from "@/utils/constants";
+import type { CollectionEntry } from "astro:content";
+
+export interface Props {
+  posts: CollectionEntry<"blog">[];
+}
+
+const { posts } = Astro.props;
+---
+
+<section id="stories" class="mt-16 scroll-mt-24 md:mt-20">
+  <!-- Header -->
+  <div class="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
+    <div>
+      <p class="text-xs font-semibold uppercase tracking-[0.36em] text-muted-foreground">
+        Últimos artículos
+      </p>
+      <h2 class="mt-2 font-display text-3xl text-foreground md:text-4xl">
+        Historias y reflexiones recientes
+      </h2>
+    </div>
+    <p class="max-w-xl text-sm text-muted-foreground">
+      Descubrí lecturas semanales con ideas prácticas para una vida equilibrada en la era digital.
+    </p>
+  </div>
+
+  <!-- Posts Grid -->
+  <div class="mt-10 grid gap-6 md:grid-cols-3">
+    {posts.map((post) => {
+      const { title, snippet, image, publishDate, author, category } = post.data;
+
+      return (
+        <article class="flex h-full flex-col overflow-hidden rounded-2xl border border-border/60 bg-white">
+          {image?.src && (
+            <img
+              src={`${image.src}&sat=-8`}
+              alt={image.alt || title}
+              class="h-48 w-full object-cover"
+              loading="lazy"
+            />
+          )}
+
+          <div class="flex flex-1 flex-col gap-4 p-6">
+            {category && (
+              <span class="text-xs font-semibold uppercase tracking-[0.3em] text-muted-foreground">
+                {category}
+              </span>
+            )}
+
+            <h3 class="font-display text-lg text-foreground">
+              <a href={`${BASE_PATH}/blog/${post.slug}`} class="transition hover:text-primary">
+                {title}
+              </a>
+            </h3>
+
+            {snippet && (
+              <p class="flex-1 text-sm text-muted-foreground">
+                {snippet}
+              </p>
+            )}
+
+            <div class="flex items-center gap-3 text-xs text-muted-foreground">
+              <div>
+                {author && (
+                  <p class="text-sm font-semibold text-foreground">
+                    {author}
+                  </p>
+                )}
+                <p>{new Date(publishDate).toLocaleDateString("es-ES", { dateStyle: "medium" })}</p>
+              </div>
+            </div>
+          </div>
+        </article>
+      );
+    })}
+  </div>
+</section>
