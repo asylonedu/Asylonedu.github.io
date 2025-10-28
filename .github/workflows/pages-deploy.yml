@@ -30,21 +30,11 @@ jobs:
         with:
           version: '8'
 
-      - name: Ensure pnpm available (fallback to corepack/npm if needed)
+      - name: Verify pnpm and node (debug)
         run: |
-          echo "PATH before check: $PATH"
-          if ! command -v pnpm >/dev/null 2>&1; then
-            echo "pnpm not found via action, trying corepack..."
-            corepack enable || true
-            corepack prepare pnpm@8.8.0 --activate || true
-          fi
-          if ! command -v pnpm >/dev/null 2>&1; then
-            echo "pnpm still not found, installing globally as last resort..."
-            npm i -g pnpm@8 || true
-          fi
-          echo "pnpm version and node version:"
-          pnpm -v || true
-          node -v || true
+          echo "PATH: $PATH"
+          pnpm -v
+          node -v
 
       - name: Install dependencies (pnpm)
         run: pnpm install --frozen-lockfile
