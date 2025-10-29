@@ -25,10 +25,16 @@ jobs:
           node-version: '20'
           cache: 'pnpm'
 
-      - name: Enable corepack and prepare pnpm
+      - name: Setup pnpm (official action)
+        uses: pnpm/action-setup@v2
+        with:
+          version: '8'
+
+      - name: Verify pnpm and node (debug)
         run: |
-          corepack enable
-          corepack prepare pnpm@8.8.0 --activate
+          echo "PATH: $PATH"
+          pnpm -v
+          node -v
 
       - name: Install dependencies (pnpm)
         run: pnpm install --frozen-lockfile
