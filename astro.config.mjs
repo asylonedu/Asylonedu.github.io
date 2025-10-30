@@ -7,7 +7,7 @@ import { BASE_PATH } from "./src/utils/constants";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://Luoro.github.io',
+  site: 'https://asylonedu.github.io',
   base: BASE_PATH,
   integrations: [mdx(), sitemap(), icon()],
   vite: {
