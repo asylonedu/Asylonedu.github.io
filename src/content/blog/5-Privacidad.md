@@ -12,7 +12,7 @@ author: "Luciana Orellana "
 tags: [Celulares, Menores, Privacidad]
 ---
 Cuando se habla de privacidad, la definición provista por IAPP resulta interesante:
-**“La privacidad es el derecho a estar libre de intrusiones o interferencias no deseadas, ya sea física o digital. Abarca la confidencialidad de la vida personal y la intimidad, así como el control sobre los datos personales, incluyendo cómo se recopilan, almacenan y utilizan. En el ámbito digital, se relaciona con la protección de información personal como datos de identificación, ubicación, historial de navegación y datos biométricos.”**__
+_**“La privacidad es el derecho a estar libre de intrusiones o interferencias no deseadas, ya sea física o digital. Abarca la confidencialidad de la vida personal y la intimidad, así como el control sobre los datos personales, incluyendo cómo se recopilan, almacenan y utilizan. En el ámbito digital, se relaciona con la protección de información personal como datos de identificación, ubicación, historial de navegación y datos biométricos.”**_
 Al momento de pensar en este concepto, existen 3 áreas a tener en cuenta:
 - Privacidad Fisica
 - Privacidad de los datos
