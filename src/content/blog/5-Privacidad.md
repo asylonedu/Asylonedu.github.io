@@ -19,8 +19,11 @@ Al momento de pensar en este concepto, existen 3 áreas a tener en cuenta:
 - Privacidad Fisica
 - Privacidad de los datos
 - Privacidad en línea
+
 Entonces las personas y más aún los tutores de menores, podrían analizar al igual que “No se brinda el número de teléfono a cualquiera” , que datos pertenecientes al ámbito personal o en línea, sea en el mundo real o virtual, deseamos que se conozcan, sean públicos, compartido con terceros (empresas) o privados.
+
 A continuación se comparte un listado de datos que más se usan y cada cual pueda decidir cuales están dentro de su tolerancia y cuáles no. También cabe aclarar, que existen algunos que bajo ninguna circunstancia deberían ser públicos.
+
 - Información de identificación directa: Nombre completo, domicilio, número de teléfono, correo electrónico, RFC, CURP, firma, fecha de nacimiento.
 - Información sensible: Datos sobre salud, origen étnico, orientación sexual, religión, origen político.
 - Datos biométricos: Huellas digitales, reconocimiento facial o de iris.
