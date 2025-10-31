@@ -6,7 +6,7 @@ image: {
     src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
     alt: "xxxxxxxx"
 }
-publishDate: "2025-09-04"
+publishDate: "2025-09-25"
 category: "Pantallas"
 author: "Luciana Orellana "
 tags: [Celulares, Smartphones, Perfiles Kids]
