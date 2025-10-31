@@ -14,11 +14,11 @@ tags: [Celulares, Smartphones, Perfiles Kids, Funcionalidades]
 Desde hace un par de años se viene revisando e investigando sobre las funcionalidades que deberían cumplir las aplicaciones a las que tienen acceso los menores. Estas funcionalidades se mencionan en diferentes artículos de investigación y se basaron en 3 normas: _”The Children’s Online Privacy Protection Act (COPPA)” de los estados unidos , la ley de Brasil Brazilian Civil Rights Framework for the Internet y  la “Regulación General de la protección de datos” de la Unión Europea (GDPR)_. Sea una red social o una aplicación, de acuerdo a una investigación, se podrían englobar las funcionalidades en 4 áreas: 
 
 1. Seguridad del menor
-  1. Reportar contenido inapropiado
-  2. Pedir soporte directamente
-  3. Detectar e informar contenido riesgoso
-  4. Proveer característica que faciliten el uso
-  5. Educar sobre medidas de seguridad
+   1. Reportar contenido inapropiado
+   2. Pedir soporte directamente
+   3. Detectar e informar contenido riesgoso
+   4. Proveer característica que faciliten el uso
+   5. Educar sobre medidas de seguridad
 
 2. Restricciones y monitoreo
    1. Permitir a los tutores monitorear las actividades
