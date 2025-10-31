@@ -8,7 +8,7 @@ import { BASE_PATH } from "./src/utils/constants";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://asylonedu.github.io',
-  base: BASE_PATH,
+  base: /,
   integrations: [mdx(), sitemap(), icon()],
   vite: {
     plugins: [tailwindcss()],
