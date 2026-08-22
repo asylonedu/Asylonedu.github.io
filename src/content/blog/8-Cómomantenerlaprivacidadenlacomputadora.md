@@ -6,7 +6,7 @@ image: {
     src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
     alt: "xxxxxxxx"
 }
-publishDate: "2025-11-10"
+publishDate: "2026-01-27"
 category: "Pantallas"
 author: "Luciana Orellana "
 tags: [Celulares, Menores, Privacidad]
