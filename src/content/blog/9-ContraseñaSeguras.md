@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "9 - Contraseña Seguras"
-snippet: "xxxxxxxxx"
+snippet: "Muchas veces al momento de definir una contraseña se piensa en algo que sea fácil de recordar y reutilizable."
 image: {
     src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
     alt: "xxxxxxxx"

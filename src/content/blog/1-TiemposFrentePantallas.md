@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "1 - Tiempos frente a las pantallas"
-snippet: "xxxxxxxxx"
+snippet: "Cuanto tiempo deberia pasar un menor frente a una pantalla? La respuesta mas prudente es depende. Depende de la pantalla, la edad y la activadad que va a realizar con ella."
 image: {
     src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
     alt: "xxxxxxxx"

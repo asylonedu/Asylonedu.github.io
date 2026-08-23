@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "11 - Autenticación Multifactor(MFA)"
-snippet: "xxxxxxxxx"
+snippet: "La autenticación multifactor(MFA) es un método de seguridad para iniciar sesión en un sistema, solicitando dos o más formas de verificación de identidad para acceder"
 image: {
     src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
     alt: "xxxxxxxx"

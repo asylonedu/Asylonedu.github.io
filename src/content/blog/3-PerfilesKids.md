@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "3 - Perfiles Kids"
-snippet: "xxxxxxxxx"
+snippet: "Bueno, aquí los usuarios se plantean si es inevitable el uso de tecnología, al menos que la app sepa si es un adulto o un menor el que está interactuando. En general cada app tiene su alternativa para los menores."
 image: {
     src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
     alt: "xxxxxxxx"

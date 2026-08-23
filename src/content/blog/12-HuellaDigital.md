@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "12 - Huella Digital"
-snippet: "xxxxxxxxx"
+snippet: "Cuando se menciona este concepto se puede pensar en una babosa que a su paso deja un rastro, y no se puede negar que estuvo en un determinado lugar por su naturaleza. "
 image: {
     src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
     alt: "xxxxxxxx"
@@ -17,7 +17,7 @@ Usar internet no se asemeja a una babosa pero todo lo que hacemos ahí queda reg
 Cuando hablamos de forma voluntaria o involuntaria se puede decir que existe una huella digital activa y otra pasiva. Existen otras clasificaciones como pública, privada o comercial de acuerdo al fin para que son usados. Para entender mejor estos conceptos alguno ejemplos de ellos son:
 
 - Activa: Al Comentar, dar Me gusta o Compartir contenido.
-- Pasiva:  es información que se genera de forma indirecta por el uso o sin el conocimiento del usuario, por ejemplo geolocalización, logs de las actividades, ips desde donde se conecta.
+- Pasiva:  es información que se genera de forma indirecta por el uso o sin el conocimiento del usuario, por ejemplo geolocalización, logs de las actividades, ips desde donde se conecta
 - Pública: Es la información que se deja abierta para todo el mundo como un perfil público.
 - Privada: información que es accesible a un un grupo reducido de persona como los mensajes de un chat. 
 - Comercial: los datos que recopilan las empresas con fines comerciales como el historial de compras.

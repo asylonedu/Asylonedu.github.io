@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "7 - Cómo mantener la privacidad en el celular -Parte II"
-snippet: "xxxxxxxxx"
+snippet: "A continuación, se siguen mencionando algunas funcionalidades o acciones que deberían ser consideradas al momento de cuidar la privacidad:"
 image: {
     src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
     alt: "xxxxxxxx"
