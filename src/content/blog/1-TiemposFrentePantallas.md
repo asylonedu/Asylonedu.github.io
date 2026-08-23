@@ -34,6 +34,7 @@ Cuanto tiempo deberia pasar un menor frente a una pantalla? La respuesta mas pru
 Cada una de ellas dependiendo de la edad y el tiempo de uso podra o no afectar el desarrollo de los menores. Sin embargo, es importante entender, que los adultos tambien se ven influenciado y afectado por el uso de las mismas. 
 Al momento de abordar estas tematicas, conviene no solo considerar el tiempo de uso, sino la informacion personal, de nuestros entorno y nuestras creencian, gustos y preferencias que son compartidos por nosotros y usados por las aplicaciones a las que accedemos a traves de ellas. Es con esta informacion que las aplicaciones podran determinar cual es la publicidad que se adapta mejor a tu perfil digital, predecir cosas que podrias necesitar a futuro e inclusive generar mayor tiempo de uso. En general, esto es el resultado de muchas microdecisiones que se han dejado libradas al azar, o no se han considerado por descuido, omision o desconocimiento.
 En un momento donde la sociedad se encuentra inmersa en un mundo tecnologico que evoluciona constantemente y a pasos agigantados, entender para decidir es clave. 
-Hasta la proxima. 
+
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**
 
 

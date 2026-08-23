@@ -31,4 +31,4 @@ El navegar sin pensar en la huella digital puede implicar un riesgo para la pers
 - Usar vpn para proteger la ip desde la que accedemos a los diferentes sitios
 - Eliminar cuentas viejas que no se utilizan 
 
-**Recuerden: no hay cosas que temer, solo cosas que comprender.**
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**

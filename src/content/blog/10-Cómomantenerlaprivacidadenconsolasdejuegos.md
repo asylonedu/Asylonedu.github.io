@@ -23,5 +23,4 @@ A continuación se detallan un conjunto de posibles medidas a aplicar:
 - Usar redes seguras, fiables y conocidas. Cerrar la sesión al finalizar: Al momento de conectarse a redes inalámbricas (Wifi) verificar que las mismas sean conocidas y seguras. Evitar  aquellas que son públicas o se encuentran en espacios públicos. Lo que puede ocurrir es que si los datos no están correctamente encriptados podrían ser vistos por otros usuarios que también están conectados.
 - Al momento de jugar se puede decidir cuál es el nivel de privacidad que deseamos tener en las plataformas y a partir de ahí tomar las medidas mencionadas anteriormente. Cuanto mayor sea el número que se elijan mantener se preservara en mayor medida la privacidad en el juego.
 
-
-**Recuerden: no hay cosas que temer, solo cosas que comprender.**
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**

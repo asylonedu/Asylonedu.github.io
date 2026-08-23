@@ -26,4 +26,4 @@ A continuación se mencionan un listado de las funcionalidades o acciones:
 En el próximo artículo, continuaremos enunciando algunas funcionalidades.
 Recuerden: no hay cosas que temer, solo cosas que comprender.
 
-**Recuerden: no hay cosas que temer, solo cosas que comprender.**
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**

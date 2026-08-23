@@ -27,7 +27,4 @@ A continuación se describe en detalle algunos métodos:
 
 Se recomienda utilizar este método de seguridad en app bancarias, financieras, académicas, redes sociales, plataforma de juegos, y sitios de compra en linea.
 
-
-
-
-**Recuerden: no hay cosas que temer, solo cosas que comprender.**
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**

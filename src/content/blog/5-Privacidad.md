@@ -39,4 +39,4 @@ Estos Datos merecen protección especial porque, si se manejaran o se divulgaran
 
 Generalmente, según el contexto cultural, social o político, podría incluir, por ejemplo, los Datos relacionados con su salud personal, vida sexual, orientación sexual, creencias religiosas, filosóficas o morales, afiliación sindical, datos genéticos, datos biométricos dirigidos a identificar de manera unívoca a una persona física, opinión política u origen racial o étnico, información sobre cuentas bancarias, documentos oficiales, información recopilada de niños y niñas o geolocalización personal.
 
-**Recuerden: no hay cosas que temer, solo cosas que comprender.**
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**

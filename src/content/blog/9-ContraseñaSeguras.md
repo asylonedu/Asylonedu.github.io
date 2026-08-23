@@ -30,6 +30,4 @@ Luego de definir la contraseña, medidas preventivas para conservarlas seguras s
 - No compartirla con otras personas.
 - Si se contactan solicitandola, desconfiar de la precedencia del mensaje.
 
-
-
-**Recuerden: no hay cosas que temer, solo cosas que comprender.**
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**

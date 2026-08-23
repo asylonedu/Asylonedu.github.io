@@ -38,4 +38,4 @@ Finalmente, tiene sentido embarcarse en la tarea de hacer estas configuraciones 
 
 Cuidar es una actividad continua, que requiere adaptabilidad y mejora continua. Tampoco es una actividad individual, sino conjunta en la que participan las familias y otros ambientes como las escuelas, o clubes. En estos espacios es donde se establecen normas comunes para el desarrollo de los menores. Sin embargo y no menos importante, antes de poder definir el vínculo de la tecnología que han de tener los más chicos,  es importante conocer y definir qué clase de vínculos tienen los adultos que rodean a los mismos. 
 
-**Recuerden: no hay cosas que temer, solo cosas que comprender.**
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**

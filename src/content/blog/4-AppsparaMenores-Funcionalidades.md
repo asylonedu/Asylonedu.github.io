@@ -42,4 +42,4 @@ Haciendo un recuento es muy probable que algunas se usen durante un periodo y qu
 
 Antes de instalar, se puede evaluar cuales son las funcionalidades deseadas y luego validar que las aplicaciones elegidas contengan dichas opciones.
 
-**Recuerden: no hay cosas que temer, solo cosas que comprender.**
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**

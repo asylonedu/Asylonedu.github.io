@@ -20,5 +20,4 @@ A continuación, se siguen mencionando algunas funcionalidades o acciones que de
 
 La tecnología ofrece millones de beneficios y oportunidades  de hacer cosas que el humano no imagina, sin embargo, dependiendo de la intención de la persona es que eso inimaginable sea bueno o malo. Es por ello, que las decisiones que más cuentan son las que parecen irrelevantes: poner o no contraseña. En ella, descubrimos el potencial de que si nos roban el celular pueden acceder sencillamente a la información, o al menos tengan que descifrar la contraseña. 
 
-
-**Recuerden: no hay cosas que temer, solo cosas que comprender.**
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**

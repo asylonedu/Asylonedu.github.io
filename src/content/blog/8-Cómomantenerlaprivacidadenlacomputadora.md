@@ -26,5 +26,4 @@ A continuación se mencionan un listado de las funcionalidades o acciones a tene
 
 Las acciones mencionadas con anterioridad, facilitan un uso seguro de la computadora priorizando la privacidad de las persona que se encuentran usandola. 
 
-
-**Recuerden: no hay cosas que temer, solo cosas que comprender.**
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**

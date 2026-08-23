@@ -21,6 +21,5 @@ Como en cualquier negocio para poder vender, tengo que entender que es lo que ne
 
 Entendiendo esto como base, es que se puede empezar a hablar  del uso de estos dispositivos en menores y adultos. 
 
-Recuerden, no hay cosas que temer, sino cosas que comprender.
-. 
+**Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**
 
