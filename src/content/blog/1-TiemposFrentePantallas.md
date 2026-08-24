@@ -3,7 +3,7 @@ draft: false
 title: "1 - Tiempos frente a las pantallas"
 snippet: "Cuanto tiempo deberia pasar un menor frente a una pantalla? La respuesta mas prudente es depende. Depende de la pantalla, la edad y la activadad que va a realizar con ella."
 image: {
-    src: "https://drive.google.com/file/d/11mmR2LtqcCVXhXf2xe-3Nry43Oqdg9QS/view?usp=drive_link",
+    src: "../img/1-TiemposFrentePantallas.png",
     alt: "Celular"
 }
 publishDate: "2025-08-27"
