@@ -1,10 +1,12 @@
+import { Image } from 'astro:assets';
+import myImage from '../../assets/1-TiemposFrentePantallas.png';
 ---
 draft: false
 title: "1 - Tiempos frente a las pantallas"
 snippet: "Cuanto tiempo deberia pasar un menor frente a una pantalla? La respuesta mas prudente es depende. Depende de la pantalla, la edad y la activadad que va a realizar con ella."
 image: {
-    src: "../img/1-TiemposFrentePantallas.png",
-    alt: "Celular"
+    src={myImage}
+    alt="Celular"
 }
 publishDate: "2025-08-27"
 category: "Pantallas"
