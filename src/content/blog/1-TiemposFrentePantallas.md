@@ -1,3 +1,4 @@
+---
 import { Image } from 'astro:assets';
 import myImage from '../../assets/1-TiemposFrentePantallas.png';
 ---
