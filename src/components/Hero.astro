@@ -56,8 +56,8 @@ const { title, snippet, image, publishDate, author, category } = featured.data;
     <!-- Image -->
     {image?.src && (
       <figure class="overflow-hidden rounded-2xl border border-border/60">
-        <img
-          src={`${image.src}&sat=-10`}
+        <Image
+          src={image.src}
           alt={image.alt || title}
           class="h-full w-full object-cover"
           loading="lazy"
