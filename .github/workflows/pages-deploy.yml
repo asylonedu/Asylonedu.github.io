@@ -19,10 +19,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
       
-      -name: Setup pnpm (official action)
-       uses: pnpm/action-setup@v4
-       with:
-         version: 9 
+      - name: Setup pnpm (official action)
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
 
       - name: Setup Node.js (with pnpm cache)
         uses: actions/setup-node@v4
