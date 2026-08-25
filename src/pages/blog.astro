@@ -30,16 +30,18 @@ publishedBlogEntries.sort(function (a, b) {
           <li>
             <a href={`${BASE_PATH}/blog/${blogPostEntry.slug}`}>
               <div class="grid md:grid-cols-2 gap-5 md:gap-10 items-center">
-                <Picture
-                  src={blogPostEntry.data.image.src}
-                  alt={blogPostEntry.data.image.alt}
-                  sizes="(max-width: 430px) 100vw, 430px"
-                  width={430}
-                  height={240}
-                  loading={index <= 2 ? "eager" : "lazy"}
-                  decoding={index <= 2 ? "sync" : "async"}
-                  class="w-full rounded-md object-cover object-center bg-white"
-                />
+                <div class="aspect-[4/3] w-full overflow-hidden rounded-md bg-white">
+                  <Picture
+                    src={blogPostEntry.data.image.src}
+                    alt={blogPostEntry.data.image.alt}
+                    sizes="(max-width: 800px) 100vw, 800px"
+                    width={800}
+                    height={600}
+                    loading={index <= 2 ? "eager" : "lazy"}
+                    decoding={index <= 2 ? "sync" : "async"}
+                    class="block h-full w-full object-cover object-center"
+                  />
+                </div>
                 <div>
                   <span class="text-blue-400 uppercase tracking-wider text-sm font-medium">
                     {blogPostEntry.data.category}
