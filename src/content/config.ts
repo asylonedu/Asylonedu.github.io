@@ -1,6 +1,5 @@
 // 1. Import utilities from `astro:content`
 import { defineCollection, z } from "astro:content";
-import { image } from "astro:content";
 
 // 2. Define your collection(s)
 const blogCollection = defineCollection({
@@ -9,7 +8,7 @@ const blogCollection = defineCollection({
     title: z.string(),
     snippet: z.string(),
     image: z.object({
-      src: z.image(),
+      src: z.string(),
       alt: z.string(),
     }),
     publishDate: z.string().transform(str => new Date(str)),
