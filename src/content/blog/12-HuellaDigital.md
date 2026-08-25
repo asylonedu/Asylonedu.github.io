@@ -3,8 +3,8 @@ draft: false
 title: "12 - Huella Digital"
 snippet: "Cuando se menciona este concepto se puede pensar en una babosa que a su paso deja un rastro, y no se puede negar que estuvo en un determinado lugar por su naturaleza. "
 image: {
-    src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
-    alt: "xxxxxxxx"
+    src: "../../assets/1-TiemposFrentePantallas.png",
+    alt: "Pantallas"
 }
 publishDate: "2026-06-23"
 category: "Pantallas"

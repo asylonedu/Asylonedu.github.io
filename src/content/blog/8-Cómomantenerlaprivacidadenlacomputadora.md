@@ -3,8 +3,8 @@ draft: false
 title: "8 - Cómo mantener la privacidad en la computadora"
 snippet: "Luego de hablar sobre los tipos de privacidad y los diferentes tipos de datos que se encuentran en línea podemos tratar de pensar cuales serían las medidas de seguridad adecuadas para las computadoras."
 image: {
-    src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
-    alt: "xxxxxxxx"
+    src: "../../assets/1-TiemposFrentePantallas.png",
+    alt: "Pantallas"
 }
 publishDate: "2026-01-27"
 category: "Pantallas"

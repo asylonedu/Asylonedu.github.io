@@ -3,8 +3,8 @@ draft: false
 title: "5 - Privacidad "
 snippet: "Cuando se habla de privacidad, la definición provista por IAPP resulta interesante"
 image: {
-    src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
-    alt: "xxxxxxxx"
+    src: "../../assets/1-TiemposFrentePantallas.png",
+    alt: "Pantallas"
 }
 publishDate: "2025-10-21"
 category: "Pantallas"

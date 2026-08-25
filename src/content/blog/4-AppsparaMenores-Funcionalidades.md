@@ -3,8 +3,8 @@ draft: false
 title: "4 - Apps para Menores: Funcionalidades "
 snippet: "Desde hace un par de años se viene revisando e investigando sobre las funcionalidades que deberían cumplir las aplicaciones a las que tienen acceso los menores"
 image: {
-    src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
-    alt: "xxxxxxxx"
+    src: "../../assets/1-TiemposFrentePantallas.png",
+    alt: "Pantallas"
 }
 publishDate: "2025-10-09"
 category: "Pantallas"
