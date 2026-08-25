@@ -3,7 +3,7 @@ draft: false
 title: "7 - Cómo mantener la privacidad en el celular -Parte II"
 snippet: "A continuación, se siguen mencionando algunas funcionalidades o acciones que deberían ser consideradas al momento de cuidar la privacidad:"
 image: {
-    src: "../../assets/1-TiemposFrentePantallas.png",
+    src: "../../assets/6-Cómomantenerlaprivacidadenelcelular.png",
     alt: "Pantallas"
 }
 publishDate: "2025-11-10"

@@ -3,7 +3,7 @@ draft: false
 title: "10 - Cómo mantener la privacidad en consolas de juegos"
 snippet: "Al pensar cómo resguardar la privacidad en los entornos digitales, y luego de ver los recaudos a tomar en los dispositivos más usados como computadoras y celulares; también conviene mencionar algunos de las consolas de juegos"
 image: {
-    src: "../../assets/1-TiemposFrentePantallas.png",
+    src: "../../assets/10-Cómomantenerlaprivacidadenconsolasdejuegos.png",
     alt: "Pantallas"
 }
 publishDate: "2026-02-28"

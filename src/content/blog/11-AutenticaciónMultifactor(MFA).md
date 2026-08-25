@@ -3,7 +3,7 @@ draft: false
 title: "11 - Autenticación Multifactor(MFA)"
 snippet: "La autenticación multifactor(MFA) es un método de seguridad para iniciar sesión en un sistema, solicitando dos o más formas de verificación de identidad para acceder"
 image: {
-    src: "../../assets/1-TiemposFrentePantallas.png",
+    src: "../../assets/11-AutenticaciónMultifactor(MFA).png",
     alt: "Pantallas"
 }
 publishDate: "2026-03-12"

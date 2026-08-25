@@ -3,7 +3,7 @@ draft: false
 title: "9 - Contraseña Seguras"
 snippet: "Muchas veces al momento de definir una contraseña se piensa en algo que sea fácil de recordar y reutilizable."
 image: {
-    src: "../../assets/1-TiemposFrentePantallas.png",
+    src: "../../assets/9-ContraseñaSeguras.png",
     alt: "Pantallas"
 }
 publishDate: "2026-02-20"

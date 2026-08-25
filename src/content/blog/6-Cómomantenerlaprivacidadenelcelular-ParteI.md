@@ -3,7 +3,7 @@ draft: false
 title: "6 - Cómo mantener la privacidad en el celular - Parte I."
 snippet: "Luego de hablar sobre los tipos de privacidad y los diferentes tipos de datos que se encuentran en línea podemos tratar de pensar cuales serían las medidas de seguridad adecuadas para los celulares."
 image: {
-    src: "../../assets/1-TiemposFrentePantallas.png",
+    src: "../../assets/1-6-Cómomantenerlaprivacidadenelcelular.png",
     alt: "Pantallas"
 }
 publishDate: "2025-11-03"
