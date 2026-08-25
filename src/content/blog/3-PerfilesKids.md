@@ -3,7 +3,7 @@ draft: false
 title: "3 - Perfiles Kids"
 snippet: "Bueno, aquí los usuarios se plantean si es inevitable el uso de tecnología, al menos que la app sepa si es un adulto o un menor el que está interactuando. En general cada app tiene su alternativa para los menores."
 image: {
-    src: "../../assets/1-TiemposFrentePantallas.png",
+    src: "../../assets/3-PerfilesKids.png",
     alt: "Pantallas"
 }
 publishDate: "2025-09-25"
