@@ -3,7 +3,7 @@ draft: false
 title: "2 - Pantallas: Smartphones"
 snippet: "Para hablar de smartphones, deberiamos saber y entender que estos dispositivos tienen como proposito mejorar la experiencia en la comunicación, el uso de las redes sociales, de capturar momentos y experiencias (fotografías/videos), en el  entretenimiento y la navegación web, entre otros."
 image: {
-    src: "../../assets/1-TiemposFrentePantallas.png",
+    src: "../../assets/2-Pantallas-Smartphones.png",
     alt: "Pantallas"
 }
 publishDate: "2025-09-04"
