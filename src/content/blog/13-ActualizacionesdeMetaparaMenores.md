@@ -9,7 +9,7 @@ image: {
 publishDate: "2026-08-28"
 category: "Pantallas"
 author: "Luciana Orellana "
-tags: [Redes Sociales, Tiempo en pantalla, Menores]
+tags: [Redes Sociales, Tiempo en pantalla, Menores, Meta, Instagram, Facebook]
 ---
 
 El 26 de agosto de 2026, Meta firmó un acuerdo con los fiscales de Estados Unidos en el que se compromete a modificar la forma en que los menores podrán usar Facebook e Instagram. Los cambios abarcan diferentes aspectos que se mencionan a continuación:
@@ -32,6 +32,5 @@ El 26 de agosto de 2026, Meta firmó un acuerdo con los fiscales de Estados Unid
    7. Control parental reforzado: el tutor designado recibirá las notificaciones sobre el tiempo de pantalla, modificaciones de la cuenta del menor, entre otras
 
 Además la compañía a través de su comunicado, invitó a youtube y tik tok a adoptar medidas similares.
-git 
 
 **Recuerden: no hay cosas que temer, solo cosas que comprender.Marie Curie**
