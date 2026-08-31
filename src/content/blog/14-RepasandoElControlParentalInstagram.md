@@ -1,6 +1,6 @@
 ---
-draft: false
-title: "13 - Actualizaciones de Meta para menores"
+draft: true
+title: "14 - Repasando el control parental de OpenAI"
 snippet: "El 26 de Agosto de 2026, Meta firmo un acuerdo con los fiscales de Estados Unidos en el que se compromete a modificar la forma en que los menores podran usar Facebook e Instagram. Ademas la compañia atraves de su comunicado, invito a youtube y tik tok a adoptar medidas similares."
 image: {
     src: "../../assets/13-ActualizacionesdeMetaparaMenores.png",
