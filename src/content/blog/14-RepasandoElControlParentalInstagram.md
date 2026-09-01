@@ -6,7 +6,7 @@ image: {
     src: "../../assets/14-RepasandoElControlParentalInstagram.png",
     alt: "Pantallas"
 }
-publishDate: "2026-08-28"
+publishDate: "2026-08-31"
 category: "Pantallas"
 author: "Luciana Orellana "
 tags: [Redes Sociales, Control Parental, Menores, Instagram]
