@@ -7,9 +7,9 @@ image: {
     alt: "Pantallas"
 }
 publishDate: "2026-03-12"
-category: "Pantallas"
+category: "Seguridad"
 author: "Luciana Orellana "
-tags: [Celulares, Menores, Privacidad]
+tags: [Multifactor, Contraseña,Seguridad]
 ---
 La autenticación multifactor(MFA) es un método de seguridad para iniciar sesión en un sistema, solicitando dos o más formas de verificación de identidad para acceder. Para realizar la verificación se puede utilizar:
 

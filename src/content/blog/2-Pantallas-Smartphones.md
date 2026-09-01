@@ -9,7 +9,7 @@ image: {
 publishDate: "2025-09-04"
 category: "Pantallas"
 author: "Luciana Orellana "
-tags: [Celulares, Smartphones]
+tags: [Pantallas, Smartphones]
 ---
 Para hablar de smartphones, deberiamos saber y entender que estos dispositivos tienen como proposito mejorar la experiencia en la comunicación, el uso de las redes sociales, de capturar momentos y experiencias (fotografías/videos), en el  entretenimiento y la navegación web, entre otros. Al momento de escribir este articulo (septiembre de 2025), siguen siendo el dispositivo con mas tiempo de uso a nivel mundial, con un promedio de entre 4 y 6 horas dependiendo de la region. 
 

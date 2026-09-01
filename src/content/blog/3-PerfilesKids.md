@@ -7,9 +7,9 @@ image: {
     alt: "Pantallas"
 }
 publishDate: "2025-09-25"
-category: "Pantallas"
+category: "Perfiles Kids"
 author: "Luciana Orellana "
-tags: [Celulares, Smartphones, Perfiles Kids]
+tags: [Celulares, Perfiles, Perfiles Kids]
 ---
 Bueno, aquí los usuarios se plantean si es inevitable el uso de tecnología, al menos que la app sepa si es un adulto o un menor el que está interactuando. En general cada app tiene su alternativa para los menores. También lo tienen los sistemas operativos como android,  iOS, Windows o macOS.
 

@@ -9,7 +9,7 @@ image: {
 publishDate: "2025-11-10"
 category: "Pantallas"
 author: "Luciana Orellana "
-tags: [Celulares, Menores, Privacidad]
+tags: [Configuraciones, Celular, Privacidad]
 ---
 A continuación, se siguen mencionando algunas funcionalidades o acciones que deberían ser consideradas al momento de cuidar la privacidad:
 

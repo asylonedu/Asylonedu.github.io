@@ -7,9 +7,9 @@ image: {
     alt: "Pantallas"
 }
 publishDate: "2025-10-09"
-category: "Pantallas"
+category: "Perfiles Kids"
 author: "Luciana Orellana "
-tags: [Celulares, Smartphones, Perfiles Kids, Funcionalidades]
+tags: [Celulares, Funcionalidades, Perfiles Kids]
 ---
 Desde hace un par de años se viene revisando e investigando sobre las funcionalidades que deberían cumplir las aplicaciones a las que tienen acceso los menores. Estas funcionalidades se mencionan en diferentes artículos de investigación y se basaron en 3 normas: _”The Children’s Online Privacy Protection Act (COPPA)” de los estados unidos , la ley de Brasil Brazilian Civil Rights Framework for the Internet y  la “Regulación General de la protección de datos” de la Unión Europea (GDPR)_. Sea una red social o una aplicación, de acuerdo a una investigación, se podrían englobar las funcionalidades en 4 áreas: 
 

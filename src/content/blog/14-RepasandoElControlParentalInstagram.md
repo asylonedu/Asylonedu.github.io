@@ -7,7 +7,7 @@ image: {
     alt: "Pantallas"
 }
 publishDate: "2026-08-31"
-category: "Pantallas"
+category: "RRSS"
 author: "Luciana Orellana "
 tags: [Redes Sociales, Control Parental, Menores, Instagram]
 ---

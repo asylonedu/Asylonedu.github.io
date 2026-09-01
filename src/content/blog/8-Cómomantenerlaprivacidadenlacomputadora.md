@@ -7,9 +7,9 @@ image: {
     alt: "Pantallas"
 }
 publishDate: "2026-01-27"
-category: "Pantallas"
+category: "Privacidad"
 author: "Luciana Orellana "
-tags: [Celulares, Menores, Privacidad]
+tags: [Configuraciones, Computadora, Privacidad]
 ---
 Luego de hablar sobre los tipos de privacidad y los diferentes tipos de datos que se encuentran en línea podemos tratar de pensar cuales serían las medidas de seguridad adecuadas para las computadoras. Algunas de ellas son indispensables, otras quedarán sujeto a la preferencia de quien lo use.
 A continuación se mencionan un listado de las funcionalidades o acciones a tener en cuenta:

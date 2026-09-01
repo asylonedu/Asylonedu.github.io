@@ -9,7 +9,7 @@ image: {
 publishDate: "2025-08-27"
 category: "Pantallas"
 author: "Luciana Orellana "
-tags: [Celulares, Smartphones]
+tags: [Tiempo en Pantalla, Dispositivos]
 ---
 
 Cuanto tiempo deberia pasar un menor frente a una pantalla? La respuesta mas prudente es depende. Depende de la pantalla, la edad y la activadad que va a realizar con ella. Al momento de escribir este articulo, existe un gran numero de tipos y propositos por las cuales fueron creadas. Vamos a mencionar solo aquellas que se podrian llegar a encontrar en los hogares. 

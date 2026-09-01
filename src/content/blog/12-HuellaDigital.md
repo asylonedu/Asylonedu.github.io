@@ -7,9 +7,9 @@ image: {
     alt: "Pantallas"
 }
 publishDate: "2026-06-23"
-category: "Pantallas"
+category: "Privacidad"
 author: "Luciana Orellana "
-tags: [Celulares, Menores, Privacidad]
+tags: [Privacidad, Huella Digital]
 ---
 
 Cuando se menciona este concepto se puede pensar en una babosa que a su paso deja un rastro, y no se puede negar que estuvo en un determinado lugar por su naturaleza. 

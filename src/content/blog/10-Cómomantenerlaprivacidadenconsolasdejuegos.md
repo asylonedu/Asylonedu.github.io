@@ -7,9 +7,9 @@ image: {
     alt: "Pantallas"
 }
 publishDate: "2026-02-28"
-category: "Pantallas"
+category: "Privacidad"
 author: "Luciana Orellana "
-tags: [Celulares, Menores, Privacidad]
+tags: [Configuraciones, Consola de Juegos, Privacidad]
 ---
 Al pensar cómo resguardar la privacidad en los entornos digitales, y luego de ver los recaudos a tomar en los dispositivos más usados como computadoras y celulares; también conviene mencionar algunos de las consolas de juegos.
 

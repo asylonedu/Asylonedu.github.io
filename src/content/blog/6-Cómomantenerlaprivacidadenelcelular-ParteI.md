@@ -9,7 +9,7 @@ image: {
 publishDate: "2025-11-03"
 category: "Pantallas"
 author: "Luciana Orellana "
-tags: [Celulares, Menores, Privacidad]
+tags: [Configuraciones, Celular, Privacidad]
 ---
 Luego de hablar sobre los tipos de privacidad y los diferentes tipos de datos que se encuentran en línea podemos tratar de pensar cuales serían las medidas de seguridad adecuadas para los celulares. 
 A continuación se mencionan un listado de las funcionalidades o acciones:

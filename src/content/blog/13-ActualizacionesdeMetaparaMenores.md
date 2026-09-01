@@ -7,7 +7,7 @@ image: {
     alt: "Pantallas"
 }
 publishDate: "2026-08-28"
-category: "Pantallas"
+category: "Perfiles Kids"
 author: "Luciana Orellana "
 tags: [Redes Sociales, Tiempo en pantalla, Menores, Meta, Instagram, Facebook]
 ---

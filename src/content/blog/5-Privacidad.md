@@ -7,9 +7,9 @@ image: {
     alt: "Pantallas"
 }
 publishDate: "2025-10-21"
-category: "Pantallas"
+category: "Privacidad"
 author: "Luciana Orellana "
-tags: [Celulares, Menores, Privacidad]
+tags: [Privacidad, Datos]
 ---
 Cuando se habla de privacidad, la definición provista por IAPP resulta interesante:
 
