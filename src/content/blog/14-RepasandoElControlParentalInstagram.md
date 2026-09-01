@@ -1,9 +1,9 @@
 ---
-draft: true
-title: "15 - Repasando el control parental de Instagram"
+draft: false
+title: "14 - Repasando el control parental de Instagram"
 snippet: "Con las nuevas disposiciones publicadas por instagram no viene mal revisar, repasar o aprender como configurar el control parental en la red social desde la cual se puede monitorear cuentas pertenecientes a menores."
 image: {
-    src: "../../assets/15-RepasandoElControlParentalInstagram.png",
+    src: "../../assets/14-RepasandoElControlParentalInstagram.png",
     alt: "Pantallas"
 }
 publishDate: "2026-08-28"
